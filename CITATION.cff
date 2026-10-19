@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite this repository."
+
+authors:
+  - family-names: Mudibo
+    given-names: Evans O.
+
+title: "Biological landscape of acute illness in children in sub-Saharan Africa and South Asia"
+
+version: "1.0.0"
+doi: 10.5281/zenodo.23474823
+date-released: 2026-10-19
+
+repository-code: "https://github.com/OmixCrew/BiologicalLandscape"
